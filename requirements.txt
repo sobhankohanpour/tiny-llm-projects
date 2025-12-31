@@ -3,3 +3,4 @@ llama-index-core==0.14.10
 llama-index-readers-file==0.5.6
 llama-index-llms-ollama==0.9.1
 llama-index-embeddings-huggingface==0.6.1
+ipywidgets>=8.0
