@@ -1,6 +1,6 @@
 # Tiny LLaMA Projects
 
-This repository contains a collection of beginner-friendly projects demonstrating how to build applications with **LLaMA models**, **LlamaIndex**, and **Ollama**, primarily using **JupyterLab** notebooks.
+This repository contains a collection of beginner-friendly projects demonstrating how to build applications with **LLaMA models**, **LlamaIndex**, and **Ollama**.
 
 
 ## Prerequisites
