@@ -5,7 +5,7 @@ This repository contains a collection of beginner-friendly projects demonstratin
 
 ## Prerequisites
 
-* Python 3.9+
+* Python 3.13+
 * JupyterLab or Jupyter Notebook
 * A supported operating system for Ollama (Linux, macOS, or Windows via WSL)
 
@@ -162,12 +162,11 @@ pip install -r requirements.txt
 ```text
 tiny-llm-projects/
 │
-├── README.md
-├── requirements.txt
 ├── 01 Your First LlamaIndex Project/
-│   ├── ask_your_pdf.ipynb
-│   └── data/
-│       └── Smarter-SCADA-Alarming.pdf
+├── 02 Your First AI Chatbot (Ollama + Python)/
+│
+├── README.md
+└── requirements.txt
 ```
 
 ## Getting Started
